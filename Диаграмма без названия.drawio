@@ -1,0 +1,25 @@
+<mxfile host="Electron" modified="2024-09-10T07:35:12.016Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/21.6.8 Chrome/114.0.5735.289 Electron/25.5.0 Safari/537.36" etag="G8LLTLtzSBNgOy1F-4yK" version="21.6.8" type="device">
+  <diagram name="Страница — 1" id="F9H0euo9LjM2EWhFH-zz">
+    <mxGraphModel dx="570" dy="333" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="43ufRdZQmw9pa1MGf81e-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="43ufRdZQmw9pa1MGf81e-2" target="43ufRdZQmw9pa1MGf81e-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="43ufRdZQmw9pa1MGf81e-2" value="НАЧАЛО" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="350" y="10" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="43ufRdZQmw9pa1MGf81e-3" value="Заявка на ремонт" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="90" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="43ufRdZQmw9pa1MGf81e-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="43ufRdZQmw9pa1MGf81e-4" target="43ufRdZQmw9pa1MGf81e-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="43ufRdZQmw9pa1MGf81e-4" value="Неисправность оборудования" style="html=1;strokeWidth=2;shape=manualInput;whiteSpace=wrap;rounded=1;size=26;arcSize=11;" vertex="1" parent="1">
+          <mxGeometry x="180" y="90" width="110" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
